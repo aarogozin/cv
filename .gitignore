@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.wrangler/
+.dev.vars
+node_modules/
+dist/
+tmp/
+*.log
+_CV Rogozin_Anton_5.2026.pdf
+_site/
