@@ -2,14 +2,14 @@
 
 ## AWS Solutions Architect | Cloud Platform & DevOps Lead
 
-Munich, Germany | German citizen | Open to relocation and remote roles  
+German citizen | Targeting Switzerland, the United States, and international remote roles outside Germany
 [anton@rogoz.in](mailto:anton@rogoz.in) | [LinkedIn](https://www.linkedin.com/in/anton-rogozin)
 
 ## Profile
 
-AWS Solutions Architect and cloud engineering leader with 12+ years in IT, including 6+ years designing, modernizing, and operating cloud platforms. Combines hands-on depth in AWS, Kubernetes, Terraform, CI/CD, security, observability, and cost optimization with experience translating business requirements into pragmatic enterprise architectures.
+AWS Solutions Architect with experience designing and operating cloud platforms for banking, fintech, and enterprise applications. Combines hands-on depth in AWS, Kubernetes, Terraform, CI/CD, security, observability, and cost optimization with the ability to turn business requirements into practical architecture decisions.
 
-Designed production infrastructure supporting banking services used by millions of customers, led platform engineering initiatives, reduced AWS spend by 30-50% across environments, and guided engineers and stakeholders through cloud adoption and modernization. Holds AWS Solutions Architect Professional, DevOps Engineer Professional, and Security Specialty certifications.
+Designed an Amazon MSK platform for banking workloads, led platform engineering initiatives, and guided engineers and stakeholders through cloud adoption and modernization. AWS certifications span solution architecture, DevOps, security, data engineering, and AI.
 
 ## Architecture & Leadership Strengths
 
@@ -37,12 +37,10 @@ Designed production infrastructure supporting banking services used by millions 
 
 **Berlin, Germany (remote from Munich) | Aug 2024 - Mar 2026**
 
-- Led the AWS infrastructure architecture for middleware services in a regulated banking environment.
-- Built reusable Terraform modules for production middleware infrastructure supporting banking services used by millions of customers.
-- Designed and operated platform capabilities using Amazon EKS, Amazon MSK, Crossplane, Terraform, and CI/CD automation.
-- Defined SLIs, SLOs, and SLAs and implemented Grafana dashboards and alerting to improve operational visibility and service ownership.
-- Converted engineering and business requirements into scalable platform solutions, technical roadmaps, and leadership-ready presentations.
-- Advised teams on AWS architecture, scaling, resource efficiency, and best practices; mentored junior engineers.
+- Designed an Amazon MSK platform to replace an external Kafka service, supporting fraud detection, authentication, and internal applications as part of the bank's migration to AWS.
+- Defined the recovery approach, authentication methods, and granular producer and consumer access controls across separate internal and customer-facing clusters.
+- Selected Terraform for the core infrastructure, retaining Crossplane for supporting services; the platform also included AWS Lambda.
+- Delivered the migration with the platform team, switching workloads topic by topic during scheduled maintenance windows after pilot validation.
 
 ### Dock Financial | Platform Team Tech Lead
 
@@ -53,7 +51,7 @@ Designed production infrastructure supporting banking services used by millions 
 - Designed and evolved Amazon EKS platforms using Terraform, Terragrunt, Helm, Karpenter, and GitLab CI.
 - Built an end-to-end application delivery workflow spanning container images, Helm packaging, infrastructure provisioning, and CI/CD.
 - Redesigned deployment Helm charts, simplifying releases while improving reliability and resource utilization.
-- Reduced AWS costs by approximately 30-50%, depending on the environment, through Savings Plans and Reserved Instances, S3 optimization, Karpenter, and Spot capacity for stateless workloads.
+- Optimized compute and storage through Savings Plans, Reserved Instances, S3 optimization, Karpenter, and Spot capacity for stateless workloads.
 - Migrated selected workloads from AMD64 to ARM64 and strengthened AWS security controls across IAM, security groups, WAF, and NACLs.
 - Mentored platform engineers and advised internal teams on AWS services, architecture, operational efficiency, and cost optimization.
 
@@ -134,4 +132,3 @@ Equivalent to a master's degree; recognized in Germany
 - English: Fluent (C2)
 - German: Intermediate (B1-B2), actively improving
 - Russian: Native
-
