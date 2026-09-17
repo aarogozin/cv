@@ -31,8 +31,9 @@ h3 { font-size: 16px; line-height: 1.5; font-weight: 650; }
 .intro { max-width: 76ch; margin-top: 20px; }
 .location { margin-top: 12px; color: var(--muted); font-size: 14px; max-width: 85ch; }
 .contacts { display: flex; flex-wrap: wrap; align-items: center; gap: 0 20px; margin-top: 12px; }
-.contacts a, .print-button { min-height: 44px; display: inline-flex; align-items: center; font-size: 14px; }
+.contacts a, .contacts button, footer .email-button, .print-button { min-height: 44px; display: inline-flex; align-items: center; font-size: 14px; }
 .print-button { border: 0; padding: 0; text-decoration: underline; text-underline-offset: 3px; }
+.email-button { border: 0; padding: 0; color: var(--accent); background: transparent; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
 section { margin-top: var(--space-section); padding-top: 24px; border-top: 1px solid var(--line); }
 .role + .role { margin-top: 24px; }
 .role-heading { display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; align-items: center; gap: 12px; }
