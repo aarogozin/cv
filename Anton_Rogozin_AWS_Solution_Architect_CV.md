@@ -35,10 +35,10 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 
 **Berlin, Germany (remote from Munich) | Aug 2024 - Mar 2026**
 
-- Designed an Amazon MSK platform to replace an external Kafka service, supporting fraud detection, authentication, and internal applications as part of the bank's migration to AWS.
-- Defined the recovery approach, IAM-based authentication, and granular producer and consumer access controls across separate internal and customer-facing clusters in production and non-production environments.
-- Selected Terraform for the core infrastructure, retaining Crossplane for supporting services; the platform also included AWS Lambda.
-- Delivered the migration with the platform team, switching workloads topic by topic after pilot validation, and implemented operational visibility with Prometheus and Grafana.
+- Contributed to the design and production rollout of an Amazon MSK platform that replaced an external Kafka service used by fraud detection, authentication, and internal applications during the bank's migration to AWS.
+- Took responsibility for the infrastructure-as-code approach and contributed to recovery design, IAM-based authentication, and granular producer and consumer access across separate internal and customer-facing clusters.
+- Recommended Terraform for the core infrastructure while retaining Crossplane for supporting services; the platform also included AWS Lambda.
+- Worked with the platform team on the phased, topic-by-topic migration after pilot validation and on operational visibility with Prometheus and Grafana.
 
 ### Dock Financial | Platform Team Tech Lead
 
