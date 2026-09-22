@@ -1,24 +1,24 @@
 # Anton Rogozin
 
-## AWS Solutions Architect | Cloud Platform & DevOps Lead
+## AWS Solutions Architect | Platform Engineering & DevOps Lead
 
-German citizen | Targeting Switzerland, the United States, and international remote roles outside Germany
+Munich, Germany | German citizen | Open to relocation and international remote roles
 [anton@rogoz.in](mailto:anton@rogoz.in) | [LinkedIn](https://www.linkedin.com/in/anton-rogozin)
 
 ## Profile
 
-AWS Solutions Architect with experience designing and operating cloud platforms for banking, fintech, and enterprise applications. Combines hands-on depth in AWS, Kubernetes, Terraform, CI/CD, security, observability, and cost optimization with the ability to turn business requirements into practical architecture decisions.
+AWS Solutions Architect and platform engineering lead with experience across consulting, banking, fintech, and enterprise infrastructure. Works from technical discovery and architecture through implementation, combining hands-on AWS, Kubernetes, Terraform, CI/CD, security, and operational experience with technical and people leadership.
 
-Designed an Amazon MSK platform for banking workloads, led platform engineering initiatives, and guided engineers and stakeholders through cloud adoption and modernization. AWS certifications span solution architecture, DevOps, security, data engineering, and AI.
+Recent work includes AWS architecture for industrial systems, cloud analytics and AI platforms, a managed Kafka platform for banking workloads, and developer platforms used across engineering teams. Comfortable working with engineers, architects, management, and C-level stakeholders.
 
 ## Architecture & Leadership Strengths
 
-- **AWS solution architecture:** secure, scalable, resilient, and cost-efficient cloud platforms; architecture decisions and implementation roadmaps
+- **Solution architecture:** discovery workshops, requirements analysis, business cases, architecture reviews, AWS migration assessments, roadmaps, and implementation plans
 - **Cloud-native platforms:** Amazon EKS, Kubernetes, Karpenter, Helm, Amazon MSK, Crossplane, Docker, Amazon ECS, and EC2
 - **Infrastructure as code:** reusable Terraform modules, Terragrunt, AWS CloudFormation, and AWS CDK
 - **Platform delivery:** GitLab CI, GitHub Actions, Jenkins, deployment automation, developer enablement, and operational readiness
 - **Security & reliability:** IAM, VPC security controls, WAF, NACLs, SLI/SLO/SLA design, Prometheus, Grafana, Alertmanager, and Amazon CloudWatch
-- **Technical leadership:** architecture consulting, stakeholder communication, mentoring, roadmap planning, and cross-functional delivery
+- **Leadership:** platform roadmaps, hiring, mentoring, performance discussions, code and design reviews, incident response, postmortems, and stakeholder communication
 
 ## Professional Experience
 
@@ -26,43 +26,39 @@ Designed an Amazon MSK platform for banking workloads, led platform engineering 
 
 **Germany | Apr 2026 - Present**
 
-- Serve as an AWS and cloud architecture specialist for internal teams and external client stakeholders.
-- Translate business, data, and technical requirements into secure, scalable, and maintainable solution architectures.
-- Advise on AWS services, cloud adoption patterns, DevOps enablement, and platform engineering practices.
-- Contribute cloud architecture expertise to AI and data transformation initiatives, including solution design, implementation planning, and delivery alignment.
-- Create architecture materials and communicate technical decisions to engineering teams, leadership, and client stakeholders.
-- Promote reliability, security, scalability, and maintainability standards while supporting technical mentoring and knowledge sharing.
+- Led AWS solution architecture for a SCADA-related system, evaluating client use cases, migration options, infrastructure requirements, and business cases for a solution intended for delivery through AWS Marketplace.
+- Ran discovery workshops and interviews with engineers, architects, management, and C-level stakeholders; translated the findings into solution designs, architecture reviews, diagrams, roadmaps, migration plans, and implementation plans.
+- Work as a senior engineer and AI architect on a cloud analytics platform, contributing AWS infrastructure and AI architecture, including Amazon Bedrock-based capabilities.
+- Advise internal and client teams on AWS architecture, cloud adoption, platform engineering, and implementation planning across engagements subject to NDA.
 
 ### DKB Service | Senior Cloud Engineer
 
 **Berlin, Germany (remote from Munich) | Aug 2024 - Mar 2026**
 
 - Designed an Amazon MSK platform to replace an external Kafka service, supporting fraud detection, authentication, and internal applications as part of the bank's migration to AWS.
-- Defined the recovery approach, authentication methods, and granular producer and consumer access controls across separate internal and customer-facing clusters.
+- Defined the recovery approach, IAM-based authentication, and granular producer and consumer access controls across separate internal and customer-facing clusters in production and non-production environments.
 - Selected Terraform for the core infrastructure, retaining Crossplane for supporting services; the platform also included AWS Lambda.
-- Delivered the migration with the platform team, switching workloads topic by topic during scheduled maintenance windows after pilot validation.
+- Delivered the migration with the platform team, switching workloads topic by topic after pilot validation, and implemented operational visibility with Prometheus and Grafana.
 
 ### Dock Financial | Platform Team Tech Lead
 
 **Munich, Germany | Jun 2023 - Jul 2024**  
 *Role ended following the company's bankruptcy.*
 
-- Led platform engineering work for AWS infrastructure and developer tooling used by multiple development and operations teams.
-- Designed and evolved Amazon EKS platforms using Terraform, Terragrunt, Helm, Karpenter, and GitLab CI.
-- Built an end-to-end application delivery workflow spanning container images, Helm packaging, infrastructure provisioning, and CI/CD.
-- Redesigned deployment Helm charts, simplifying releases while improving reliability and resource utilization.
-- Optimized compute and storage through Savings Plans, Reserved Instances, S3 optimization, Karpenter, and Spot capacity for stateless workloads.
-- Migrated selected workloads from AMD64 to ARM64 and strengthened AWS security controls across IAM, security groups, WAF, and NACLs.
-- Mentored platform engineers and advised internal teams on AWS services, architecture, operational efficiency, and cost optimization.
+- Led platform engineering for AWS infrastructure and developer tooling used by several teams and approximately 30 developers; co-owned the roadmap and backlog with another technical lead and senior stakeholders.
+- Combined hands-on technical leadership with hiring, mentoring, performance discussions, code reviews, design reviews, and coordination across development and operations teams.
+- Designed and evolved Amazon EKS platforms and application delivery workflows using Terraform, Terragrunt, Helm, Karpenter, and GitLab CI.
+- Participated in on-call operations, led postmortems, and drove production reliability improvements across the platform.
+- Improved infrastructure efficiency through Helm standardization, Karpenter adoption, selected Graviton migrations, storage and capacity optimization, and stronger IAM and network controls.
 
 ### Tech-5 | Cloud DevOps Architect
 
 **Germany | Feb 2022 - May 2023**
 
-- Designed cloud and hybrid architectures for client migration and data platform engagements subject to NDA.
-- Planned cloud transformation roadmaps and advised clients on AWS adoption and architecture decisions.
-- Delivered infrastructure automation, containerization, CI/CD, Linux engineering, and operational improvements.
-- Created a structured development path for engineers across the consultancy.
+- Delivered cloud architecture work across approximately four client engagements covering migrations, data platforms, and hybrid infrastructure, subject to NDA.
+- Assessed existing environments, designed target solutions and migration roadmaps, and supported delivery through infrastructure automation, containerization, CI/CD, and Linux engineering.
+- Prepared proofs of concept, architecture diagrams, demonstrations, and client presentations to explain technical options and delivery plans.
+- Mentored consultants and created workshops, presentations, certification guidance, and a structured development path for engineers.
 
 ### AlphaPet | Senior DevOps Engineer
 
