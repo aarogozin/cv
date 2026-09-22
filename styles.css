@@ -25,6 +25,8 @@ h1 { font-size: 40px; line-height: 1.15; letter-spacing: -.035em; font-weight: 7
 h2 { font-size: 22px; line-height: 1.25; letter-spacing: -.02em; margin-bottom: 20px; }
 h3 { font-size: 16px; line-height: 1.5; font-weight: 650; }
 .profile-heading { display: flex; justify-content: space-between; gap: 24px; align-items: flex-start; }
+.profile-actions { display: flex; align-items: flex-start; gap: 16px; flex-shrink: 0; }
+.profile-photo { width: 104px; height: 104px; display: block; object-fit: cover; object-position: 50% 34%; border-radius: 8px; border: 1px solid var(--line); background: #fff; }
 .subtitle { font-size: 20px; color: var(--accent); margin-top: 6px; }
 .theme-toggle { border: 1px solid var(--line); border-radius: 6px; padding: 8px 12px; min-height: 44px; white-space: nowrap; font-size: 14px; }
 .theme-toggle:hover, .theme-toggle:active { background: var(--hover); }
@@ -73,6 +75,8 @@ footer a { display: inline-block; min-height: 44px; padding-top: 10px; }
  .resume { padding: 24px 20px; }
  h1 { font-size: 36px; }
  .profile-heading { gap: 12px; flex-wrap: wrap; }
+ .profile-actions { width: 100%; order: -1; justify-content: space-between; align-items: center; }
+ .profile-photo { width: 84px; height: 84px; }
  .theme-toggle { font-size: 12px; }
  .subtitle { font-size: 18px; }
  section { margin-top: 32px; padding-top: 20px; }
@@ -94,7 +98,7 @@ footer a { display: inline-block; min-height: 44px; padding-top: 10px; }
  h2 { font-size: 14pt; margin-bottom: 10px; }
  h3 { font-size: 10pt; }
  .subtitle { font-size: 13pt; }
- .theme-toggle, .print-button, .skip-link, .versions, footer { display: none; }
+ .theme-toggle, .profile-photo, .print-button, .skip-link, .versions, footer { display: none; }
  .intro { margin-top: 10px; }
  .location, .dates, .contacts a { font-size: 9pt; }
  .contacts a { min-height: 0; }
