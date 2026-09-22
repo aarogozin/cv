@@ -106,6 +106,7 @@ Designed an Amazon MSK platform for banking workloads, led platform engineering 
 - AWS Certified Security - Specialty
 - AWS Certified Data Engineer - Associate
 - AWS Certified AI Practitioner
+- Claude Certified Architect - Foundations
 - HashiCorp Certified: Terraform Associate
 - Cisco Certified Network Associate (CCNA)
 

@@ -8,6 +8,7 @@ Assets are served locally; no Credly embed script or third-party image request i
 
 - AWS badges: the respective issuer pages at https://www.credly.com/org/amazon-web-services (Solutions Architect Professional, DevOps Engineer Professional, Security Specialty, Data Engineer Associate, AI Practitioner).
 - CCNA: https://www.credly.com/org/cisco/badge/ccna
+- Claude Certified Architect - Foundations: https://www.credly.com/org/anthropic/badge/claude-certified-architect-foundations
 - Terraform Associate historical badge artwork: https://images.credly.com/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/linkedin_thumb_blob (Credly). The link on the site leads to HashiCorp's certification description; no third-party holder's credential is linked.
 
 ## Company logos
