@@ -1,0 +1,117 @@
+# Anton Rogozin
+
+## AWS Solutions Architect
+
+Munich, Germany | German citizen | Open to relocation and international remote roles
+
+[anton@rogoz.in](mailto:anton@rogoz.in) | [LinkedIn](https://www.linkedin.com/in/anton-rogozin) | [Web CV](https://aarogozin.github.io/cv/solutions-architect.html) | [GitHub](https://github.com/aarogozin)
+
+## Profile
+
+AWS Solutions Architect with experience across consulting, banking, fintech, industrial systems, and enterprise infrastructure. Works from discovery and requirements analysis through architecture decisions, migration planning, implementation guidance, and production delivery.
+
+Combines customer-facing consulting with hands-on experience in AWS, Kubernetes, Terraform, messaging platforms, security, observability, and platform engineering. Comfortable working with engineers, architects, management, and C-level stakeholders.
+
+## Architecture Capabilities
+
+- **Discovery and advisory:** stakeholder interviews, discovery workshops, requirements analysis, business cases, architecture reviews, and client presentations
+- **AWS architecture and migration:** target architectures, migration assessments, implementation roadmaps, multi-account environments, security, resilience, and operational readiness
+- **Integration and platforms:** B2B APIs, Amazon MSK and Kafka, Amazon EKS, container platforms, CI/CD, observability, and shared infrastructure services
+- **Architecture delivery:** proofs of concept, diagrams, migration plans, implementation plans, infrastructure as code, and collaboration with delivery teams
+- **Technical leadership:** architecture decisions, roadmap planning, mentoring, design reviews, and communication across technical and business audiences
+
+## Professional Experience
+
+### Deloitte | Senior Consultant, AI & Data
+
+**Germany | Apr 2026 - Present**
+
+- Led AWS solution architecture for a SCADA-related system, evaluating client use cases, migration options, infrastructure requirements, and business cases for a solution intended for delivery through AWS Marketplace.
+- Ran discovery workshops and interviews with engineers, architects, management, and C-level stakeholders; translated the findings into solution designs, architecture reviews, diagrams, roadmaps, migration plans, and implementation plans.
+- Work as a senior engineer and AI architect on a cloud analytics platform, contributing AWS infrastructure and AI architecture, including Amazon Bedrock-based capabilities.
+- Advise internal and client teams on AWS architecture, cloud adoption, platform engineering, and implementation planning across engagements subject to NDA.
+
+### DKB Service | Senior Cloud Engineer
+
+**Berlin, Germany (remote from Munich) | Aug 2024 - Mar 2026**
+
+- Contributed to the architecture and production rollout of an Amazon MSK platform that replaced an external Kafka service used by fraud detection, authentication, and internal applications during the bank's migration to AWS.
+- Took responsibility for the infrastructure-as-code approach and contributed to recovery design, IAM-based authentication, and granular producer and consumer access across separate internal and customer-facing clusters.
+- Recommended Terraform for the core infrastructure while retaining Crossplane for supporting services; the platform also included AWS Lambda.
+- Worked with the platform team on pilot validation, the phased topic-by-topic migration, and operational visibility with Prometheus and Grafana.
+
+### Dock Financial | Platform Team Tech Lead
+
+**Munich, Germany | Jun 2023 - Jul 2024**
+
+- Developed and supported the AWS platform architecture for B2B financial APIs and related application workloads.
+- Worked with an AWS Organizations multi-account model covering central networking and egress, domain management, GitLab and code hosting, and separate production, development, integration, and QA environments.
+- Designed and evolved the Amazon EKS platform and automated delivery architecture using Terraform, Terragrunt, Helm, Karpenter, GitLab CI, and a shared observability stack.
+- Contributed to networking, security, capacity, and in-region resilience and recovery decisions while co-owning the platform roadmap with another technical lead and senior stakeholders.
+- Combined architecture work with hands-on delivery, technical reviews, mentoring, hiring, performance discussions, incident response, and postmortems for a platform used by several teams and approximately 30 developers.
+
+### Tech-5 | Cloud DevOps Architect
+
+**Germany | Feb 2022 - May 2023**
+
+- Delivered cloud architecture work across approximately four client engagements covering migrations, data platforms, and hybrid infrastructure, subject to NDA.
+- Assessed existing environments, designed target solutions and migration roadmaps, and supported implementation through infrastructure automation, containerization, CI/CD, and Linux engineering.
+- Prepared proofs of concept, architecture diagrams, demonstrations, and client presentations to explain technical options and delivery plans.
+- Mentored consultants and created workshops, presentations, certification guidance, and a structured development path for engineers.
+
+### AlphaPet | Senior DevOps Engineer
+
+**Munich, Germany | Jun 2020 - Feb 2022**
+
+- Designed and built AWS infrastructure and delivery automation for ERP and e-commerce workloads.
+- Created infrastructure as code and CI/CD capabilities from the ground up using Terraform and cloud-native services.
+- Implemented service-wide monitoring, alerting, and analytics with Prometheus, Grafana, Alertmanager, Amazon CloudWatch, and the Elastic Stack.
+
+### CSSSR | DevOps Engineer
+
+**Remote | Mar 2019 - Jul 2020**
+
+- Built a CI/CD platform using GitHub Actions, Docker, Kubernetes, and Helm.
+- Contributed to the migration of legacy on-premises infrastructure to a Kubernetes-based cloud platform.
+- Built Amazon WorkSpaces infrastructure and automated operations with Ansible and shell scripting.
+
+### Earlier Experience
+
+- **InfoWatch | Senior Technical Specialist, Training & Education** | Mar 2018 - Mar 2019
+- **Business Trend | Senior System Administrator** | May 2016 - Mar 2018
+- **ARCCN | Senior System Administrator** | Feb 2014 - May 2016
+
+## Certifications
+
+- AWS Certified Solutions Architect - Professional
+- AWS Certified DevOps Engineer - Professional
+- AWS Certified Security - Specialty
+- AWS Certified Data Engineer - Associate
+- AWS Certified AI Practitioner
+- Claude Certified Architect - Foundations
+- HashiCorp Certified: Terraform Associate
+- Cisco Certified Network Associate (CCNA)
+
+## Technology
+
+**AWS and platforms:** Amazon EKS, Amazon ECS, Amazon EC2, AWS Lambda, Amazon MSK, AWS IAM, AWS Organizations, VPC networking, Amazon CloudWatch
+
+**Containers and messaging:** Kubernetes, Docker, Helm, Karpenter, Apache Kafka, Crossplane
+
+**Infrastructure as code:** Terraform, Terragrunt, AWS CloudFormation, AWS CDK
+
+**Delivery and operations:** GitLab CI, GitHub Actions, Jenkins, Prometheus, Grafana, Alertmanager, Elastic Stack, Linux, Ansible, Bash
+
+## Selected Project
+
+### Local AI Agent Platform | Personal Project
+
+- Architected an isolated containerized AI agent stack for Apple Silicon, connecting local model inference with research, private document ingestion, RAG, Telegram, and Obsidian.
+- Designed explicit security boundaries around mounted data and runtime access using MLX/oMLX, Docker, Qdrant, Docling, and FastAPI.
+- [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
+
+## Education & Languages
+
+**MIREA - Russian Technological University** | Specialist degree in Computer Security, 2008 - 2013; equivalent to a master's degree and recognized in Germany
+
+**Languages:** English C2 | German B1-B2 | Russian native

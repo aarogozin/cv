@@ -32,6 +32,9 @@ h3 { font-size: 16px; line-height: 1.5; font-weight: 650; }
 .location { margin-top: 12px; color: var(--muted); font-size: 14px; max-width: 85ch; }
 .contacts { display: flex; flex-wrap: wrap; align-items: center; gap: 0 20px; margin-top: 12px; }
 .contacts a, .contacts button, footer .email-button, .print-button { min-height: 44px; display: inline-flex; align-items: center; font-size: 14px; }
+.versions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.versions a { display: inline-flex; align-items: center; min-height: 36px; padding: 5px 10px; border: 1px solid var(--line); border-radius: 6px; font-size: 13px; text-decoration: none; }
+.versions a:hover, .versions a[aria-current="page"] { background: var(--hover); border-color: var(--accent); }
 .print-button { border: 0; padding: 0; text-decoration: underline; text-underline-offset: 3px; }
 .email-button { border: 0; padding: 0; color: var(--accent); background: transparent; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
 section { margin-top: var(--space-section); padding-top: 24px; border-top: 1px solid var(--line); }
@@ -91,7 +94,7 @@ footer a { display: inline-block; min-height: 44px; padding-top: 10px; }
  h2 { font-size: 14pt; margin-bottom: 10px; }
  h3 { font-size: 10pt; }
  .subtitle { font-size: 13pt; }
- .theme-toggle, .print-button, .skip-link, footer { display: none; }
+ .theme-toggle, .print-button, .skip-link, .versions, footer { display: none; }
  .intro { margin-top: 10px; }
  .location, .dates, .contacts a { font-size: 9pt; }
  .contacts a { min-height: 0; }
