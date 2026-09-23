@@ -27,14 +27,15 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 **Germany | Apr 2026 - Present**
 
 - Work as a senior engineer and AI architect on a cloud analytics platform, contributing hands-on AWS infrastructure and Amazon Bedrock-based capabilities.
-- Provide AWS and platform engineering guidance across client engagements, implementation planning, architecture reviews, and delivery alignment.
-- Led infrastructure planning for a SCADA-related AWS solution, including discovery, migration assessment, target architecture, and implementation planning.
+- Led the technical workstream within a seven-person Deloitte team for the discovery and proof-of-concept phases of an AWS-based SCADA product platform.
+- Developed shared Kubernetes and tenant-isolated AWS account architecture options while advising the client on technical trade-offs, Linux modernization, licensing considerations, and the path toward a potential pilot.
+- Ran workshops and translated business and engineering requirements into architecture materials, roadmaps, and implementation planning.
 
 ### DKB Service | Senior Cloud Engineer
 
 **Berlin, Germany (remote from Munich) | Aug 2024 - Mar 2026**
 
-- Contributed to the design, infrastructure implementation, and production rollout of an Amazon MSK platform replacing an external Kafka service used by banking workloads.
+- Contributed to the design, infrastructure implementation, and production rollout of an Amazon MSK platform replacing an external Kafka service used by fraud detection, authentication, transaction processing, and internal applications.
 - Took responsibility for the infrastructure-as-code approach and implemented core infrastructure with Terraform while retaining Crossplane for supporting services.
 - Contributed to recovery design, IAM-based authentication, and producer and consumer access across separate internal and customer-facing production and non-production clusters.
 - Worked with the platform team on pilot validation, phased workload migration, Prometheus and Grafana observability, and production readiness.
@@ -43,9 +44,10 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 
 **Munich, Germany | Jun 2023 - Jul 2024**
 
-- Led platform engineering for B2B financial APIs and application workloads running on AWS and Amazon EKS; the platform supported several teams and approximately 30 developers.
+- Led platform engineering for a mission-critical, 24/7 B2B financial platform serving more than ten production clients, with dozens of services and approximately 30 developers using the platform.
 - Built and evolved automated delivery workflows using Terraform, Terragrunt, Helm, Karpenter, GitLab CI, container images, and environment-specific infrastructure provisioning.
-- Worked with an AWS Organizations multi-account model covering central networking and egress, domain management, GitLab and code hosting, and separate production, development, integration, and QA accounts.
+- Worked with an AWS Organizations environment spanning more than ten accounts, covering central networking and egress, domain management, GitLab and code hosting, and separate production, development, integration, and QA accounts.
+- Owned platform evolution, operational improvements, client onboarding automation, and the delivery of new capabilities requested by development teams.
 - Operated and improved the EKS platform, observability stack, in-region resilience and recovery, Karpenter configuration, Graviton adoption, resource utilization, IAM, and network controls.
 - Co-owned the roadmap and backlog with another technical lead and senior stakeholders while conducting hiring, mentoring, performance discussions, code and design reviews, on-call response, and postmortems.
 
@@ -53,7 +55,7 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 
 **Germany | Feb 2022 - May 2023**
 
-- Delivered hands-on infrastructure and DevOps work across approximately four client engagements involving cloud migrations, data platforms, and hybrid environments.
+- Delivered hands-on infrastructure and DevOps work across approximately four client engagements, including an analytics platform, a data lake, B2C web applications, cloud migrations, and hybrid environments.
 - Built infrastructure automation, container platforms, CI/CD workflows, and Linux-based solutions while supporting architecture assessments and migration roadmaps.
 - Mentored consultants and created workshops, certification guidance, and a structured engineering development path.
 
@@ -61,7 +63,7 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 
 **Munich, Germany | Jun 2020 - Feb 2022**
 
-- Built AWS infrastructure and delivery automation for ERP and e-commerce workloads across Amazon EC2, Amazon ECS, Docker, and Linux.
+- Built AWS and hybrid-cloud infrastructure for ERP and e-commerce workloads, including architecture and migration work across AWS and Hetzner.
 - Introduced Terraform-based infrastructure as code and CI/CD capabilities from the ground up.
 - Implemented monitoring, alerting, and analytics with Prometheus, Grafana, Alertmanager, CloudWatch, and the Elastic Stack.
 - Supported development teams with application delivery, environment operations, cloud resource optimization, and production troubleshooting.

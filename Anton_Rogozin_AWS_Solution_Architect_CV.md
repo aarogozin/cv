@@ -26,10 +26,12 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 
 **Germany | Apr 2026 - Present**
 
-- Led AWS solution architecture for a SCADA-related system, evaluating client use cases, migration options, infrastructure requirements, and business cases for a solution intended for delivery through AWS Marketplace.
-- Ran discovery workshops and interviews with engineers, architects, management, and C-level stakeholders; translated the findings into solution designs, architecture reviews, diagrams, roadmaps, migration plans, and implementation plans.
-- Work as a senior engineer and AI architect on a cloud analytics platform, contributing AWS infrastructure and AI architecture, including Amazon Bedrock-based capabilities.
-- Advise internal and client teams on AWS architecture, cloud adoption, platform engineering, and implementation planning across engagements subject to NDA.
+- Led the technical workstream within a seven-person Deloitte team for the discovery and proof-of-concept phases of an AWS-based SCADA product platform, with a potential pilot and later implementation phase planned.
+- Acted as the client's AWS trusted advisor across technical architecture, business use cases, cost implications, licensing considerations, and cloud adoption trade-offs.
+- Developed two target architecture options: a shared Kubernetes platform and a tenant-isolated model with dedicated AWS accounts and infrastructure.
+- Helped the client evaluate Linux modernization, reduce dependency on Windows licensing, and expand the initiative from a standalone web application toward a broader cloud migration and product strategy.
+- Ran discovery workshops and interviews with engineers, architects, management, and C-level stakeholders; translated findings into diagrams, architecture reviews, roadmaps, migration plans, implementation plans, and client presentations.
+- Work as a senior engineer and AI architect on a cloud analytics platform, contributing AWS infrastructure and Amazon Bedrock-based capabilities.
 
 ### DKB Service | Senior Cloud Engineer
 
@@ -45,9 +47,11 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 **Munich, Germany | Jun 2023 - Jul 2024**  
 *Role ended following the company's bankruptcy.*
 
-- Led platform engineering for AWS infrastructure and developer tooling used by several teams and approximately 30 developers; co-owned the roadmap and backlog with another technical lead and senior stakeholders.
+- Led platform engineering for a mission-critical, 24/7 B2B financial platform serving more than ten production clients and running dozens of services across a large AWS Organizations environment.
+- Owned platform evolution, operational improvements, client onboarding automation, and the delivery of new platform capabilities used by several teams and approximately 30 developers.
 - Combined hands-on technical leadership with hiring, mentoring, performance discussions, code reviews, design reviews, and coordination across development and operations teams.
-- Designed and evolved Amazon EKS platforms and application delivery workflows using Terraform, Terragrunt, Helm, Karpenter, and GitLab CI.
+- Designed and evolved Amazon EKS platforms and application delivery workflows across production, development, integration, and QA environments using Terraform, Terragrunt, Helm, Karpenter, and GitLab CI.
+- Worked with a multi-account AWS organization spanning more than ten accounts, including central networking and egress, domain management, code hosting, and workload environments.
 - Participated in on-call operations, led postmortems, and drove production reliability improvements across the platform.
 - Improved infrastructure efficiency through Helm standardization, Karpenter adoption, selected Graviton migrations, storage and capacity optimization, and stronger IAM and network controls.
 
@@ -55,7 +59,7 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 
 **Germany | Feb 2022 - May 2023**
 
-- Delivered cloud architecture work across approximately four client engagements covering migrations, data platforms, and hybrid infrastructure, subject to NDA.
+- Delivered cloud architecture work across approximately four client engagements, including an analytics platform, a data lake, B2C web applications, cloud migrations, and hybrid infrastructure, subject to NDA.
 - Assessed existing environments, designed target solutions and migration roadmaps, and supported delivery through infrastructure automation, containerization, CI/CD, and Linux engineering.
 - Prepared proofs of concept, architecture diagrams, demonstrations, and client presentations to explain technical options and delivery plans.
 - Mentored consultants and created workshops, presentations, certification guidance, and a structured development path for engineers.
@@ -64,7 +68,7 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 
 **Munich, Germany | Jun 2020 - Feb 2022**
 
-- Designed and built AWS infrastructure and delivery automation for high-load ERP and e-commerce workloads.
+- Designed and built AWS and hybrid-cloud infrastructure for high-load ERP and e-commerce workloads, including architecture and migration work across AWS and Hetzner.
 - Created infrastructure as code and CI/CD capabilities from the ground up using Terraform and cloud-native services.
 - Reorganized cloud infrastructure to materially reduce operating costs.
 - Implemented service-wide monitoring, alerting, and analytics with Prometheus, Grafana, Alertmanager, Amazon CloudWatch, and the Elastic Stack.
