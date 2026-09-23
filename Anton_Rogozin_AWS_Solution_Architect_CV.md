@@ -90,13 +90,19 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 - **Business Trend | Senior System Administrator** | May 2016 - Mar 2018
 - **ARCCN | Senior System Administrator** | Feb 2014 - May 2016
 
-## Personal Project
+## Personal Projects
 
 ### Local AI Agent Platform | Personal Project
 
 - Small project built for personal use and later shared publicly, connecting local model inference on Apple Silicon with research workflows, private document ingestion, RAG, Telegram, and Obsidian.
 - Uses MLX/oMLX, Docker, Qdrant, Docling, and FastAPI, with explicit boundaries around mounted data and runtime access.
 - [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
+
+### Garmin Health Sync | Personal Project
+
+- Built a local-first dashboard that aggregates Garmin Connect and RENPHO smart-scale data, safely reconciles body measurements, and produces private reports and structured exports.
+- Implemented provider integrations, scheduled synchronization, and local data boundaries using Python, Flask, React, TypeScript, and Docker.
+- [Project repository](https://github.com/aarogozin/garmin-health-sync)
 
 ## Certifications
 

@@ -112,13 +112,19 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 
 **Systems and automation:** Linux, Ansible, Bash
 
-## Personal Project
+## Personal Projects
 
 ### Local AI Agent Platform | Personal Project
 
 - Small project built for personal use and later shared publicly, running an isolated containerized AI agent stack for Apple Silicon with local inference, private document ingestion, RAG, Telegram, and Obsidian integrations.
 - Uses MLX/oMLX, Docker, Qdrant, Docling, and FastAPI, with explicit container and data-access boundaries.
 - [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
+
+### Garmin Health Sync | Personal Project
+
+- Built a local-first dashboard aggregating Garmin Connect and RENPHO smart-scale data, with safe measurement reconciliation, scheduled synchronization, and private reports.
+- Implemented a Docker-first runtime, Python and Flask services, a React and TypeScript interface, encrypted credentials, and privacy-filtered exports.
+- [Project repository](https://github.com/aarogozin/garmin-health-sync)
 
 ## Education & Languages
 

@@ -105,13 +105,19 @@ Combines customer-facing consulting with hands-on experience in AWS, Kubernetes,
 
 **Delivery and operations:** GitLab CI, GitHub Actions, Jenkins, Prometheus, Grafana, Alertmanager, Elastic Stack, Linux, Ansible, Bash
 
-## Personal Project
+## Personal Projects
 
 ### Local AI Agent Platform | Personal Project
 
 - Small project built for personal use and later shared publicly, exploring an isolated AI agent stack for Apple Silicon with local inference, research, private document ingestion, RAG, Telegram, and Obsidian.
 - Uses MLX/oMLX, Docker, Qdrant, Docling, and FastAPI, with explicit boundaries around mounted data and runtime access.
 - [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
+
+### Garmin Health Sync | Personal Project
+
+- Built a local-first personal health platform integrating Garmin Connect and RENPHO smart-scale data, with safe measurement reconciliation, scheduled synchronization, and private reporting.
+- Designed provider adapters and local data boundaries with Python, Flask, React, TypeScript, Docker, and structured Markdown and JSON exports.
+- [Project repository](https://github.com/aarogozin/garmin-health-sync)
 
 ## Education & Languages
 

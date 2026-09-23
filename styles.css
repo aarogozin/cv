@@ -62,7 +62,8 @@ section { margin-top: var(--space-section); padding-top: 24px; border-top: 1px s
 .expertise > div { display: grid; grid-template-columns: 190px minmax(0, 1fr); gap: 16px; }
 dt { font-weight: 650; }
 dd { margin: 0; color: var(--muted); }
-#projects > p { margin-top: 8px; }
+.personal-project p { margin-top: 8px; }
+.personal-project + .personal-project { margin-top: 20px; }
 .education-grid { display: grid; grid-template-columns: 3fr 2fr; gap: 32px; }
 .education-grid p { margin-top: 6px; }
 .language-list { margin: 8px 0 0; display: grid; gap: 4px; }
