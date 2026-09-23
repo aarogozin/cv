@@ -105,12 +105,12 @@ Combines customer-facing consulting with hands-on experience in AWS, Kubernetes,
 
 **Delivery and operations:** GitLab CI, GitHub Actions, Jenkins, Prometheus, Grafana, Alertmanager, Elastic Stack, Linux, Ansible, Bash
 
-## Selected Project
+## Personal Project
 
 ### Local AI Agent Platform | Personal Project
 
-- Architected an isolated containerized AI agent stack for Apple Silicon, connecting local model inference with research, private document ingestion, RAG, Telegram, and Obsidian.
-- Designed explicit security boundaries around mounted data and runtime access using MLX/oMLX, Docker, Qdrant, Docling, and FastAPI.
+- Small project built for personal use and later shared publicly, exploring an isolated AI agent stack for Apple Silicon with local inference, research, private document ingestion, RAG, Telegram, and Obsidian.
+- Uses MLX/oMLX, Docker, Qdrant, Docling, and FastAPI, with explicit boundaries around mounted data and runtime access.
 - [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
 
 ## Education & Languages

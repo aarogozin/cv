@@ -90,14 +90,12 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 - **Business Trend | Senior System Administrator** | May 2016 - Mar 2018
 - **ARCCN | Senior System Administrator** | Feb 2014 - May 2016
 
-## Selected Project
+## Personal Project
 
 ### Local AI Agent Platform | Personal Project
 
-- Architected an isolated, containerized AI agent stack for Apple Silicon, connecting local model inference to research workflows, private document ingestion, RAG, Telegram, and Obsidian.
-- Designed explicit security boundaries around mounted data and runtime access, with local inference through an OpenAI-compatible API.
-- Used architecture-driven AI-assisted development to prototype, review, test, and iteratively improve the implementation.
-- Technologies include MLX/oMLX, Docker, Qdrant, Apache Tika, Docling, FastAPI, and agent tooling.
+- Small project built for personal use and later shared publicly, connecting local model inference on Apple Silicon with research workflows, private document ingestion, RAG, Telegram, and Obsidian.
+- Uses MLX/oMLX, Docker, Qdrant, Docling, and FastAPI, with explicit boundaries around mounted data and runtime access.
 - [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
 
 ## Certifications

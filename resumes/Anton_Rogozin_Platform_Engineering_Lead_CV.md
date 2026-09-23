@@ -112,12 +112,12 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 
 **Systems and automation:** Linux, Ansible, Bash
 
-## Selected Project
+## Personal Project
 
 ### Local AI Agent Platform | Personal Project
 
-- Built an isolated containerized AI agent stack for Apple Silicon with local inference, private document ingestion, RAG, Telegram, and Obsidian integrations.
-- Implemented container and data-access boundaries using MLX/oMLX, Docker, Qdrant, Docling, and FastAPI.
+- Small project built for personal use and later shared publicly, running an isolated containerized AI agent stack for Apple Silicon with local inference, private document ingestion, RAG, Telegram, and Obsidian integrations.
+- Uses MLX/oMLX, Docker, Qdrant, Docling, and FastAPI, with explicit container and data-access boundaries.
 - [Project repository](https://github.com/aarogozin/mlx-to-isolated-hermes)
 
 ## Education & Languages
