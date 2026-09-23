@@ -131,6 +131,6 @@ Equivalent to a master's degree; recognized in Germany
 
 ## Languages
 
-- English: Fluent (C2)
-- German: Intermediate (B1-B2), actively improving
+- English: Fluent; experienced in technical workshops, architecture presentations, and executive communication
+- German: Intermediate working proficiency
 - Russian: Native

@@ -117,4 +117,4 @@ Combines customer-facing consulting with hands-on experience in AWS, Kubernetes,
 
 **MIREA - Russian Technological University** | Specialist degree in Computer Security, 2008 - 2013; equivalent to a master's degree and recognized in Germany
 
-**Languages:** English C2 | German B1-B2 | Russian native
+**Languages:** English — Fluent; experienced in technical workshops, architecture presentations, and executive communication | German — Intermediate working proficiency | Russian — Native
