@@ -78,10 +78,10 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 
 **Remote | Mar 2019 - Jul 2020**
 
-- Built a CI/CD platform from the ground up using GitHub Actions, Docker, Kubernetes, and Helm.
-- Migrated legacy on-premises infrastructure to a modern Kubernetes-based cloud platform.
-- Built Amazon WorkSpaces virtual desktop infrastructure for administrative teams.
-- Automated infrastructure operations with Ansible and shell scripting and developed monitoring with Prometheus.
+- Contributed to the migration of PostgreSQL databases and Node.js applications from non-containerized, self-hosted infrastructure to a containerized Kubernetes platform on DigitalOcean.
+- Implemented application containerization and deployment across DigitalOcean and self-hosted Kubernetes on bare metal where regional requirements required local hosting.
+- Rebuilt product delivery from bespoke deployment processes to CI/CD workflows based on Jenkins, GitHub Actions, Kubernetes, and Helm.
+- Supported the decommissioning of the legacy on-premises platform after workload migration, and automated ongoing operations with Ansible, Bash, and Prometheus.
 
 ### Earlier Experience
 

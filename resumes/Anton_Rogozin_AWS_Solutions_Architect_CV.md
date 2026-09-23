@@ -74,9 +74,9 @@ Combines customer-facing consulting with hands-on experience in AWS, Kubernetes,
 
 **Remote | Mar 2019 - Jul 2020**
 
-- Built a CI/CD platform using GitHub Actions, Docker, Kubernetes, and Helm.
-- Contributed to the migration of legacy on-premises infrastructure to a Kubernetes-based cloud platform.
-- Built Amazon WorkSpaces infrastructure and automated operations with Ansible and shell scripting.
+- Contributed to the migration of PostgreSQL databases and Node.js applications from non-containerized, self-hosted infrastructure to a containerized Kubernetes platform on DigitalOcean.
+- Implemented a hybrid deployment model using DigitalOcean and self-hosted Kubernetes on bare metal where regional requirements required local hosting.
+- Rebuilt product delivery from bespoke deployment processes to CI/CD workflows based on Jenkins, GitHub Actions, Kubernetes, and Helm, and supported the decommissioning of the legacy platform.
 
 ### Earlier Experience
 

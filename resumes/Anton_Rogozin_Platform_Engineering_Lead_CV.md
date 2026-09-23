@@ -72,10 +72,11 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 
 **Remote | Mar 2019 - Jul 2020**
 
-- Built a CI/CD platform using GitHub Actions, Docker, Kubernetes, and Helm.
-- Migrated legacy on-premises infrastructure to Kubernetes-based cloud environments on DigitalOcean and k3s.
-- Built Amazon WorkSpaces infrastructure and automated Linux operations with Ansible and Bash.
-- Developed Prometheus monitoring and supported developers with deployment and infrastructure troubleshooting.
+- Contributed to the migration of PostgreSQL databases and Node.js applications from non-containerized, self-hosted infrastructure to a containerized Kubernetes platform on DigitalOcean.
+- Containerized application workloads and implemented a hybrid deployment model using DigitalOcean and self-hosted Kubernetes on bare metal where regional requirements required local hosting.
+- Rebuilt product delivery from bespoke deployment processes to CI/CD workflows based on Jenkins, GitHub Actions, Kubernetes, and Helm.
+- Supported the decommissioning of the legacy on-premises platform and automated ongoing Linux operations with Ansible, Bash, and Prometheus.
+- Built Amazon WorkSpaces infrastructure for administrative teams and supported developers with deployment and infrastructure troubleshooting.
 
 ### Earlier Experience
 
