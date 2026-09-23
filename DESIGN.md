@@ -32,6 +32,7 @@ Quiet, editorial, and technical. The page should feel like a well-edited profess
 - Experience uses a three-column heading row: logo, role, dates.
 - Certification badges are 44px and inline with text; they are never presented as large cards.
 - Company marks are contained in a 64 × 32px area.
+- Languages use compact label-and-level rows; supporting evidence appears as secondary text below the list.
 - Breakpoints: 900px for two-column certificates, 600px for a single-column mobile layout.
 
 ## Interaction and accessibility

@@ -63,8 +63,13 @@ section { margin-top: var(--space-section); padding-top: 24px; border-top: 1px s
 dt { font-weight: 650; }
 dd { margin: 0; color: var(--muted); }
 #projects > p { margin-top: 8px; }
-.education-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 32px; }
+.education-grid { display: grid; grid-template-columns: 3fr 2fr; gap: 32px; }
 .education-grid p { margin-top: 6px; }
+.language-list { margin: 8px 0 0; display: grid; gap: 4px; }
+.language-list > div { display: grid; grid-template-columns: 72px minmax(0, 1fr); gap: 12px; }
+.language-list dt { font-weight: 500; }
+.language-list dd { color: var(--text); }
+.languages .language-note { margin-top: 12px; color: var(--muted); font-size: 14px; line-height: 1.45; }
 .muted { color: var(--muted); }
 footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
 footer a { display: inline-block; min-height: 44px; padding-top: 10px; }
