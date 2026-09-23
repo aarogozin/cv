@@ -78,8 +78,9 @@ Recent work includes AWS architecture for industrial systems, cloud analytics an
 
 **Remote | Mar 2019 - Jul 2020**
 
-- Contributed to the migration of PostgreSQL databases and Node.js applications from non-containerized, self-hosted infrastructure to a containerized Kubernetes platform on DigitalOcean.
-- Implemented application containerization and deployment across DigitalOcean and self-hosted Kubernetes on bare metal where regional requirements required local hosting.
+- Played a substantial role in migrating the platform's infrastructure from self-hosted systems to a containerized cloud platform based on Kubernetes in DigitalOcean.
+- Migrated and containerized platform components including Node.js applications, PostgreSQL and managed database workloads, monitoring, and supporting services.
+- Implemented a hybrid deployment model across DigitalOcean and self-hosted Kubernetes on bare metal where regional requirements required local hosting.
 - Rebuilt product delivery from bespoke deployment processes to CI/CD workflows based on Jenkins, GitHub Actions, Kubernetes, and Helm.
 - Supported the decommissioning of the legacy on-premises platform after workload migration, and automated ongoing operations with Ansible, Bash, and Prometheus.
 
