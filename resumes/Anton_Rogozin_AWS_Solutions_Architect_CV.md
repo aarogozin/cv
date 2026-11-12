@@ -26,6 +26,7 @@ Combines customer-facing consulting with hands-on experience in AWS, Kubernetes,
 
 **Germany | Apr 2026 - Present**
 
+- Contribute to the implementation of an AI Factory platform for a Deloitte client.
 - Led the technical workstream within a seven-person Deloitte team for the discovery and proof-of-concept phases of an AWS-based SCADA product platform, with a potential pilot and later implementation phase planned.
 - Acted as the client's AWS trusted advisor across technical architecture, business use cases, cost implications, licensing considerations, and cloud adoption trade-offs.
 - Developed two target architecture options: a shared Kubernetes platform and a tenant-isolated model with dedicated AWS accounts and infrastructure.
@@ -91,6 +92,7 @@ Combines customer-facing consulting with hands-on experience in AWS, Kubernetes,
 - AWS Certified Security - Specialty
 - AWS Certified Data Engineer - Associate
 - AWS Certified AI Practitioner
+- Claude Certified Architect - Professional
 - Claude Certified Architect - Foundations
 - HashiCorp Certified: Terraform Associate
 - Cisco Certified Network Associate (CCNA)

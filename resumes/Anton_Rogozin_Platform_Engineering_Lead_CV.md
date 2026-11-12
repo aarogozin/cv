@@ -27,6 +27,7 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 **Germany | Apr 2026 - Present**
 
 - Work as a senior engineer and AI architect on a cloud analytics platform, contributing hands-on AWS infrastructure and Amazon Bedrock-based capabilities.
+- Contribute to the implementation of an AI Factory platform for a Deloitte client.
 - Led the technical workstream within a seven-person Deloitte team for the discovery and proof-of-concept phases of an AWS-based SCADA product platform.
 - Developed shared Kubernetes and tenant-isolated AWS account architecture options while advising the client on technical trade-offs, Linux modernization, licensing considerations, and the path toward a potential pilot.
 - Ran workshops and translated business and engineering requirements into architecture materials, roadmaps, and implementation planning.
@@ -92,6 +93,7 @@ Core experience includes Amazon EKS, Kubernetes, Terraform, Terragrunt, Helm, Ka
 - AWS Certified Security - Specialty
 - AWS Certified Data Engineer - Associate
 - AWS Certified AI Practitioner
+- Claude Certified Architect - Professional
 - Claude Certified Architect - Foundations
 - HashiCorp Certified: Terraform Associate
 - Cisco Certified Network Associate (CCNA)
